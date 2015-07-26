@@ -77,3 +77,9 @@ p {
 h1 {
     max-width: 60%;
 }
+table {
+    width: 300px;
+}
+table .glider {
+    text-align: right;
+}
