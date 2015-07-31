@@ -12,7 +12,7 @@ html,body {
 
 html {
     background-color:#f2f2f2;
-    background: #fff; 
+    background: #fff;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -43,9 +43,9 @@ pre {
 }
 
 #main-img {
-    margin:auto; 
-    height:auto; 
-    max-width:300px 
+    margin:auto;
+    height:auto;
+    max-width:300px
 }
 
 span {
@@ -82,4 +82,8 @@ table {
 }
 table .glider {
     text-align: right;
+}
+.no-indent {
+    text-indent: 0px;
+    max-width: 60%;
 }
