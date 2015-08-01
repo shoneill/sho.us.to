@@ -95,3 +95,6 @@ table .glider {
     text-indent: 0px;
     max-width: 60%;
 }
+.rms {
+    text-decorations: none;
+}
