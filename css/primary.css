@@ -92,6 +92,7 @@ table .glider {
     text-align: right;
 }
 .no-indent {
+    font-family:monospace;
     text-indent: 0px;
     max-width: 60%;
 }
