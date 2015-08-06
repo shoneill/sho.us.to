@@ -58,8 +58,12 @@ pre {
 
 span {
     font-family:monospace;
-    font-size: 12px;
+    font-size: 14px;
     color: #171717
+}
+
+.name {
+    font-size: 16px;
 }
 
 #links {
