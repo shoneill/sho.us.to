@@ -57,7 +57,7 @@ pre {
     max-width:300px
 }
 
-span {
+.side {
     font-family:monospace;
     font-size: 14px;
     color: #171717
@@ -65,6 +65,8 @@ span {
 
 .name {
     font-size: 16px;
+    font-family:monospace;
+    color: #171717
 }
 
 #links {
@@ -93,7 +95,7 @@ h1 {
 table {
     width: 300px;
 }
-table .glider {
+table .glider-align {
     text-align: right;
 }
 .no-indent {
@@ -104,4 +106,8 @@ table .glider {
 }
 .rms {
     text-decoration: none;
+}
+
+.glider {
+    height: 16px 
 }
